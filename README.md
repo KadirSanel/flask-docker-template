@@ -11,7 +11,7 @@ sudo ./service.sh install
 
 ## Configurations
 Add the python libraries you want to add to the requirements.txt file.
-```cmd
+```requirements.txt
 requirements.txt 
 
 click==8.0.3
