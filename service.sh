@@ -48,7 +48,5 @@ fi
 if [ "$1" == "install" ]
 then
     apt-get install docker
-    apt-get install tesseract-python
-    apt-get install opencv-python
     pip install -r requirements.txt
 fi
